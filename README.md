@@ -1,5 +1,7 @@
 ## **Introduction**
 
+![RF16PynhopS3KUA2YZHBH3](https://github.com/user-attachments/assets/ebb32b28-39fc-4f19-8d4b-1f3057bf583a)
+
 With the growing need for secure, streamlined authentication processes, integrating Azure Active Directory (Azure AD) with Jenkins using Single Sign-On (SSO) is a valuable approach for organizations leveraging both Azure AD and Jenkins for development and operations. Azure AD SSO enables users to access Jenkins using their organizational credentials, improving security and convenience by eliminating the need for multiple logins and reducing the risk of password fatigue and unauthorized access. 
 
 Jenkins, a widely-used continuous integration and continuous delivery (CI/CD) automation server, often hosts sensitive data and critical deployment pipelines. Integrating Azure AD SSO offers a way to manage access securely and efficiently, using the robust identity management capabilities of Azure AD to safeguard access to Jenkins.
